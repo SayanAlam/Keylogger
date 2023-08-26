@@ -37,9 +37,5 @@ The Keylogger Application can be used in various legitimate scenarios:
 This Keylogger Application is meant for educational and responsible purposes. The author assumes no liability for misuse, damage, or legal consequences arising from the application's use.
 
 ## Contact
-For questions, concerns, or suggestions related to this application, please contact mohitrana0311@gmail.com.
+For questions, concerns, or suggestions related to this application, please contact alamsayan816@gmail.com.
 
-## Video
-
-_
-[![Video Thumbnail](https://res.cloudinary.com/dzjjgan1n/image/upload/v1692977300/Screenshot_315_ztswih.png)](https://res.cloudinary.com/dzjjgan1n/video/upload/v1692974210/KEYLOGGER_dniuxq.mp4)
